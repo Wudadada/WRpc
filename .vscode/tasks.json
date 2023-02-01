@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "mkdir",
+        "type": "shell",
+        "command": "mkdir build -p"
+      },
+  
+      {
+        "label": "cmake",
+        "type": "shell",
+        "command": "cmake -DCMAKE_BUILD_TYPE=debug ..",  // cmake编译必须为debug模式，否则后续不能实现断点调试。
+        "dependsOn": ["mkdir"],
+        "options": {
+          "cwd": "${workspaceFolder}/build"
+        },
+      },
+  
+      {
+        "label": "make",
+        "type": "shell",
+        "command": "make -j4",
+        "options": {
+          "cwd": "${workspaceFolder}/build"
+        },
+      }
+    ]
+  }

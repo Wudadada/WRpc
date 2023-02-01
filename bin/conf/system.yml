@@ -1,0 +1,3 @@
+server:
+    work_path: /apps/work/wqd
+    pid_file: wqd.pid

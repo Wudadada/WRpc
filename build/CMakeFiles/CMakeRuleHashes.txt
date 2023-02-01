@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+96bf9ce377d1d1d96c46d838165dce41 ../wqd/http/http11_parser.rl.cc
+ea0975e3124ba2d7ae7e133c6e840d0b ../wqd/http/httpclient_parser.rl.cc
+82b05a7aaf2d4c3dacdd2e24d4a76bf8 ../wqd/uri.rl.cc

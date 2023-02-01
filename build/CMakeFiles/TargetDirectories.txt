@@ -1,0 +1,4 @@
+/root/wqd-master/build/CMakeFiles/edit_cache.dir
+/root/wqd-master/build/CMakeFiles/rebuild_cache.dir
+/root/wqd-master/build/CMakeFiles/wqd.dir
+/root/wqd-master/build/CMakeFiles/test_http_server.dir

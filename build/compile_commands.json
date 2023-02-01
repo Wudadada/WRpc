@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/address.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/address.cc.o -c /root/wqd-master/wqd/address.cc",
+  "file": "/root/wqd-master/wqd/address.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/bytearray.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/bytearray.cc.o -c /root/wqd-master/wqd/bytearray.cc",
+  "file": "/root/wqd-master/wqd/bytearray.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/config.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/config.cc.o -c /root/wqd-master/wqd/config.cc",
+  "file": "/root/wqd-master/wqd/config.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/env.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/env.cc.o -c /root/wqd-master/wqd/env.cc",
+  "file": "/root/wqd-master/wqd/env.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/fd_manager.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/fd_manager.cc.o -c /root/wqd-master/wqd/fd_manager.cc",
+  "file": "/root/wqd-master/wqd/fd_manager.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/fiber.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/fiber.cc.o -c /root/wqd-master/wqd/fiber.cc",
+  "file": "/root/wqd-master/wqd/fiber.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http.cc.o -c /root/wqd-master/wqd/http/http.cc",
+  "file": "/root/wqd-master/wqd/http/http.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http_connection.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http_connection.cc.o -c /root/wqd-master/wqd/http/http_connection.cc",
+  "file": "/root/wqd-master/wqd/http/http_connection.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http_parser.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http_parser.cc.o -c /root/wqd-master/wqd/http/http_parser.cc",
+  "file": "/root/wqd-master/wqd/http/http_parser.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http_session.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http_session.cc.o -c /root/wqd-master/wqd/http/http_session.cc",
+  "file": "/root/wqd-master/wqd/http/http_session.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http_server.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http_server.cc.o -c /root/wqd-master/wqd/http/http_server.cc",
+  "file": "/root/wqd-master/wqd/http/http_server.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/servlet.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/servlet.cc.o -c /root/wqd-master/wqd/http/servlet.cc",
+  "file": "/root/wqd-master/wqd/http/servlet.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/hook.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/hook.cc.o -c /root/wqd-master/wqd/hook.cc",
+  "file": "/root/wqd-master/wqd/hook.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/iomanager.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/iomanager.cc.o -c /root/wqd-master/wqd/iomanager.cc",
+  "file": "/root/wqd-master/wqd/iomanager.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/library.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/library.cc.o -c /root/wqd-master/wqd/library.cc",
+  "file": "/root/wqd-master/wqd/library.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/log.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/log.cc.o -c /root/wqd-master/wqd/log.cc",
+  "file": "/root/wqd-master/wqd/log.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/mutex.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/mutex.cc.o -c /root/wqd-master/wqd/mutex.cc",
+  "file": "/root/wqd-master/wqd/mutex.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/protocol.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/protocol.cc.o -c /root/wqd-master/wqd/protocol.cc",
+  "file": "/root/wqd-master/wqd/protocol.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/scheduler.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/scheduler.cc.o -c /root/wqd-master/wqd/scheduler.cc",
+  "file": "/root/wqd-master/wqd/scheduler.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/socket.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/socket.cc.o -c /root/wqd-master/wqd/socket.cc",
+  "file": "/root/wqd-master/wqd/socket.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/stream.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/stream.cc.o -c /root/wqd-master/wqd/stream.cc",
+  "file": "/root/wqd-master/wqd/stream.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/tcp_server.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/tcp_server.cc.o -c /root/wqd-master/wqd/tcp_server.cc",
+  "file": "/root/wqd-master/wqd/tcp_server.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/timer.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/timer.cc.o -c /root/wqd-master/wqd/timer.cc",
+  "file": "/root/wqd-master/wqd/timer.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/thread.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/thread.cc.o -c /root/wqd-master/wqd/thread.cc",
+  "file": "/root/wqd-master/wqd/thread.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/util.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/util.cc.o -c /root/wqd-master/wqd/util.cc",
+  "file": "/root/wqd-master/wqd/util.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/http11_parser.rl.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/http11_parser.rl.cc.o -c /root/wqd-master/wqd/http/http11_parser.rl.cc",
+  "file": "/root/wqd-master/wqd/http/http11_parser.rl.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/http/httpclient_parser.rl.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/http/httpclient_parser.rl.cc.o -c /root/wqd-master/wqd/http/httpclient_parser.rl.cc",
+  "file": "/root/wqd-master/wqd/http/httpclient_parser.rl.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++  -Dwqd_EXPORTS -D__FILE__=\\\"wqd/uri.rl.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g -fPIC   -o CMakeFiles/wqd.dir/wqd/uri.rl.cc.o -c /root/wqd-master/wqd/uri.rl.cc",
+  "file": "/root/wqd-master/wqd/uri.rl.cc"
+},
+{
+  "directory": "/root/wqd-master/build",
+  "command": "/apps/wqd/bin/c++   -D__FILE__=\\\"tests/test_http_server.cc\\\" -I/root/wqd-master/.   -rdynamic  -fPIC -ggdb -O3 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -g   -o CMakeFiles/test_http_server.dir/tests/test_http_server.cc.o -c /root/wqd-master/tests/test_http_server.cc",
+  "file": "/root/wqd-master/tests/test_http_server.cc"
+}
+]
